@@ -31,7 +31,7 @@ class InternetConnectionPlugin(plugins.Plugin):
                     color=BLACK,
                     label='WWW',
                     value='D',
-                    position=(ui.width() / 2 - 35, 0),
+                    position=(ui.width() / 2 - 40, 0),
                     label_font=fonts.Bold,
                     text_font=fonts.Medium)
                 )
